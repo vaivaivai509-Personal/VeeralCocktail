@@ -1,0 +1,57 @@
+VEERAL’S COCKTAIL PARTY — UPDATED INVITATION
+Saturday, 28 November 2026 · 5 PM onwards (India Standard Time)
+Riverview Casa Farmhouse
+Riverview Casa, Plot No. 13, Sector 128, Noida, Uttar Pradesh · PIN 201304
+Directions: https://maps.app.goo.gl/SP7Mb6vWkP7f43Sd9
+
+OPEN THE INVITATION
+1. Extract this ZIP completely.
+2. Keep index.html, styles.css, script.js and the assets folder together.
+3. Open index.html in your browser.
+4. Tap the opening champagne bottle to enter and start the original music.
+
+SHARE WITH GUESTS
+Upload the folder’s contents to your static website host, preserving the
+assets folder and all filenames. Share the hosted page’s link with guests.
+On a phone, open the link in Safari or Chrome for the full experience.
+ZIP previews inside messaging or Files apps may not run interactive pages.
+
+WHAT’S NEW
+• Riverview Casa Farmhouse, full address and your exact directions link.
+• 5 PM onwards throughout, including the countdown target.
+• A larger, illuminated gold-foil scratch ticket on the champagne gift box,
+  with shimmer, orbiting stars and a finger/mouse scratch gesture cue.
+• The date stays Saturday, 28 November 2026. Scratch about one-third of the
+  foil, use the reveal link, or focus the ticket and press Enter or Space.
+• The box opens with a bottle, champagne splash, light rays and confetti.
+  The following chapters unlock when the reveal has finished.
+• The dance floor lights start automatically. Multicolour beams, ceiling
+  spotlights, a mirror disco ball and floating sparkles stay illuminated.
+• Dress code: Glamorous & Sparkling. Any colour is welcome.
+• The softly blinking “Be ready for the party!” button launches champagne
+  bottles from both sides. The corks pop, champagne arcs cross the screen,
+  and gold, lilac and rose confetti and stars burst from both bottle necks.
+• Light washes, sweeping beams and drifting sparkles continue across the
+  screen after the finale. Tap the button again for another pop.
+• Sound and motion controls remain at the top. Motion off pauses moving
+  decorations; reduced-motion device settings are respected automatically.
+  The finale then shows open bottles and a steady glow instead of motion.
+• The original supplied music and all local artwork and fonts are included.
+  Sound begins with the first bottle tap and pauses in the background.
+
+EDITING
+index.html   Guest-facing words, address, directions and dress code
+styles.css   Colours, responsive layout and animations
+script.js    Opening, scratch reveal, countdown and celebration effects
+assets/      Original artwork, fonts, licence notices and music
+
+The countdown is set to 2026-11-28T17:00:00+05:30.
+No installation, account, build command, CDN or external fonts are needed.
+Only the Google Maps directions link needs an internet connection.
+
+VALIDATION
+Checked in a real Chromium browser at mobile and desktop sizes, plus a
+320 px reduced-motion view. Verified touch and mouse scratch gestures,
+keyboard reveal, 5 PM IST countdown, automatic lights, repeat champagne
+pops, ongoing sparkles, motion pause/resume, working local asset loads
+and no horizontal overflow or JavaScript errors.
